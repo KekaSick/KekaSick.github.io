@@ -1,0 +1,340 @@
+.content_wrapperOld{
+    width: 1440px;
+    height: 640px;
+    background: #C4C4C4;
+    position: relative;
+    margin: auto 12.5% auto 12.5%;
+}
+.content_wrapperOld-line{
+    transform: rotate(-0.19deg);
+    position: absolute;
+
+}
+.FirstLine{
+    margin: 122px 763px 516px 71px;
+}
+.SecondLine{
+    margin: 510px 763px 127.99px 71px;
+}
+.content_wrapperOld-descriptionMain{
+    position: absolute;
+    width: 499px;
+    height: 174px;
+    margin: 139px 833px 327px 108px;
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 87px;
+    text-transform: uppercase;
+
+    color: #000000;
+
+}
+.content_wrapperOld-descriptionSecond{
+    position: absolute;
+    width: 531px;
+    height: 50px;
+
+    margin: 335px 800px 255px 109px;
+
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    /* or 139% */
+
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.content_wrapperOldCasting{
+    position: absolute;
+
+    box-sizing: border-box;
+
+    width: 309px;
+    height: 57px;
+
+    margin: 419px 1022px 164px 109px;
+
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 25px;
+    /* identical to box height, or 125% */
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+    padding: 16px 27px 16px 27px ;
+
+    background: rgba(1, 1, 1, 0.78);
+}
+
+.content_wrapperOldPic1{
+    position: absolute;
+    width: 417px;
+    height: 564px;
+    margin: 38px 149px 38px 874px;
+}
+
+.content_infoDesk{
+    margin: auto 12.5% auto 12.5%;
+    background: rgba(0, 0, 0, 0.4);
+    width: 1440px;
+    height: 1355px;
+}
+.content_infoDesk-FirstBlock{
+    position: absolute;
+    width: 725px;
+    height: 897px;
+    margin: 197px 690px 261.72px 25px;
+
+    background: #C4C4C4;
+}
+.content_infoDesk-Pic1{
+    position: absolute;
+    width: 560px;
+    height: 751px;
+    margin: 73px 73px 73px 92px;
+}
+.content_infoDesk-SecondBlock{
+    position: absolute;
+    width: 725px;
+    height: 897px;
+    margin: 124px 75px 334.72px 640px;
+
+    background: #C4C4C4;
+}
+.content_infoDesk-Pic2{
+    position: absolute;
+    width: 560px;
+    height: 751px;
+    margin: 73px 85px 73px 80px;
+}
+.content_infoDesk-ThirdBlock{
+    position: absolute;
+    width: 634px;
+    height: 493px;
+    margin: 701px 199px 161.72px 607px;
+
+    background: rgba(255, 255, 255, 0.92);
+}
+.content_infoDesk-ThirdBlock-text1{
+    position: absolute;
+    width: 221px;
+    height: 29px;
+
+    margin: 33px 343px 431px 70px;
+
+
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    color: rgba(0, 0, 0, 0.54);
+
+}
+.content_infoDesk-ThirdBlock-text2{
+    position: absolute;
+    width: 364px;
+    height: 61px;
+    margin: 81px 200px 351px 70px ;
+
+    font-family: 'Abel',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 61px;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+.content_infoDesk-ThirdBlock-text3{
+    position: absolute;
+    width: 550px;
+    height: 261px;
+    margin: 161px 14px 71px 70px;
+
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 29px;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+.content_columnsOld{
+    width: 1440px;
+    height: 970px;
+    margin: auto 12.5% auto 12.5%;
+    background: rgba(196, 196, 196, 0.6);
+}
+.content_columnsOld-textMain{
+    position: absolute;
+    width: 724px;
+    height: 39px;
+    margin: 127px 328px 804px 388px;
+
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 69px;
+    line-height: 25px;
+    /* or 36% */
+
+    text-transform: uppercase;
+
+    color: rgba(0, 0, 0, 0.79);
+
+}
+.content_columnsOld-textDescription{
+    position: absolute;
+    width: 1087px;
+    height: 70px;
+    margin: 237px 171px 663px 182px;
+
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 25px;
+    /* or 104% */
+
+    text-align: center;
+
+    text-transform: uppercase;
+
+    color: #000000;
+
+}
+
+.content_columnsOld-First{
+    position: absolute;
+    width: 383px;
+    height: 311px;
+    margin: 508px 998px 151px 59px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #0D0000;
+
+}
+.content_columnsOld-TextMain{
+
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 25px;
+
+}
+.content_columnsOld-TextSecond{
+    margin-top:55px;
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+
+}
+.content_columnsOld-Second{
+    position: absolute;
+    width: 445px;
+    height: 311px;
+
+    margin: 507px 496px 152px 499px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #0D0000;
+}
+
+.content_columnsOld-Third{
+    position: absolute;
+    width: 450px;
+    height: 232px;
+
+    margin: 510px 13px 228px 977px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #0D0000;
+}
+.content_columnsOld-NumberOne{
+    position: absolute;
+    width: 159px;
+    height: 104px;
+
+    margin: 507px 1120px ;
+
+    font-family:'Bayon';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 300px;
+    line-height: 25px;
+    /* or 8% */
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+}
+.content_columnsOld-NumberTwo{
+    position: absolute;
+    width: 159px;
+    height: 104px;
+
+    font-family: 'Bayon';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 300px;
+    line-height: 25px;
+    /* or 8% */
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+.content_columnsOld-NumberThree{
+    position: absolute;
+    width: 159px;
+    height: 104px;
+
+    font-family: 'Bayon';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 300px;
+    line-height: 25px;
+    /* or 8% */
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.layer1{
+    z-index: 1;
+
+}
+.layer2{
+    z-index: 2;
+
+}
+.layer3{
+    z-index: 3;
+}

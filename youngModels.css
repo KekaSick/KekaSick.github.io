@@ -1,0 +1,165 @@
+.young-modelMain-text{
+    position: absolute;
+    width: 755px;
+    height: 261px;
+
+    margin: 138px 588px 241px 97px;
+
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 87px;
+    text-transform: uppercase;
+
+    color: #000000;
+
+}
+.young-modelSecond-text{
+    position: absolute;
+    width: 502px;
+    height: 50px;
+
+    margin: 410px 841px 180px 97px;
+
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    /* or 139% */
+
+    text-transform: uppercase;
+
+    color: #000000;
+
+}
+
+.young-casting{
+    margin: 483px 1033px 100px 98px;
+}
+
+.line-second-young{
+    margin: 563.5px 762px 74.52px 72px;
+}
+
+.content_columnsYoung-textMain{
+    position: absolute;
+    width: 735px;
+    height: 25px;
+    margin: 102px 371px 843px 334px;
+
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 25px;
+    /* identical to box height, or 52% */
+
+    text-transform: uppercase;
+
+    color: rgba(0, 0, 0, 0.79);
+}
+
+.content_columnsYoung-textDescription{
+    position: absolute;
+    width: 561px;
+    height: 115px;
+    margin: 177px 462px 678px 417px;
+
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 25px;
+    /* or 104% */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.content_columnsYoung-First{
+    position: absolute;
+    width: 383px;
+    height: 208px;
+    margin: 362px 932px 408px 125px;
+
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 25px;
+    /* or 69% */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #0D0000;
+}
+.content_columnsYoung-Second{
+    position: absolute;
+    width: 383px;
+    height: 219px;
+
+    margin: 645px 919px 106px 138px;
+
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 25px;
+    /* or 69% */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #0D0000;
+
+}
+.content_columnsYoung-Third{
+    position: absolute;
+    width: 472px;
+    height: 200px;
+
+    margin: 362px 117px 408px 851px;
+
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 25px;
+    /* or 69% */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #000000;
+
+}
+.content_columnsYoung-Fourth{
+    position: absolute;
+    width: 732px;
+    height: 206px;
+
+    margin: 645px 6px 119px 702px;
+
+    font-family: 'Actor',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 25px;
+    /* or 69% */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #000000;
+
+}
+.content_columnsOld-TextSecond-Young{
+    width: 522px;
+    height: 138px;
+    margin-left:134px ;
+}
