@@ -1,1 +1,136 @@
-Hello World
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Sigma</title>
+    <meta name="author" content="Вержбицкий Макар" />
+    <meta name="author" content="Анастасия Хомякова" />
+    <link rel="stylesheet" href="1stPageStyle.css">
+    <link rel="stylesheet" href="resetEric.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Abel&family=Actor&family=Bayon&family=Ribeye+Marrow&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header class="header">
+    <nav class="nav">
+
+        <div class="nav__text nav__text-city">
+            <img class="nav__img-circle" src="images/Ellipse.png" alt="circle">
+            Мой город
+        </div>
+
+        <div onclick="onClick()"  class="nav__text nav__text-model" id="model">
+            Моделинг
+            <img class="nav__img-polygon" src="images/Polygon.png" alt="polygon">
+        </div>
+
+        <div class="nav__text nav__text-tutors">Преподаватели</div>
+
+        <div class="nav__text nav__text-partners">Партнеры</div>
+
+    </nav>
+</header>
+<section class="content_wrapper">
+
+    <div class="nav__link" id="link">
+        <a href="oldModels.html" class="nav__link-text1">Взрослое направление</a>
+        <a href="youngModels.html" class="nav__link-text2">Детское направление</a>
+    </div>
+
+    <a class="logo content_wrapper-logo">
+        SIGMA
+    </a>
+    <p class="logo content_wrapper-href">
+        S
+    </p>
+
+    <p class="content_wrapper__main-text">М О Д Е Л И Н Г</p>
+    <p class="content_wrapper__secondary-text">П О Г Р У Ж Е Н И Е В П Р О Ф Е С С И Ю</p>
+    <p class="content_wrapper__casting-text">
+            Запись на кастинг
+    </p>
+</section>
+<section class="content_columns">
+    <p class="content_columns-text">
+        Немного  о  нас:
+    </p>
+    <img class="lineAbout" src="images/lineAbout.png">
+    <div class="content_column__first">
+        <img class="content_column__first-pic" src="images/telka1.png">
+        <div class="description1 content_column__description">
+            <span class="description1__text-main">
+                БЛАГОДАРЯ КОМАНДЕ <span class="white">Sigma</span>
+            </span>
+            <img class="line-first" src="images/lineFirst.png" alt="line">
+            <span class="description1__text-secondary">
+                90% участников модельного агентства становятся востребованными моделями, проходя кастинги в Европе, Азии и России.
+            </span>
+        </div>
+    </div>
+    <div class="content_column__second">
+        <img class="content_column__second-pic" src="images/telka2.png">
+        <div class="description2 content_column__description">
+            <span class="description2__text-main">
+                Репутация для нас на <span class="white">первом</span> месте:
+            </span>
+            <img class="line-second" src="images/lineSecond.png" alt="line">
+            <span class="description2__text-secondary">
+                Мы создаем свою репутацию ежедневным кропотливым трудом. мы <span class="white">не сотдрудничаем</span> с сомнительными заказчиками.
+            </span>
+        </div>
+    </div>
+</section>
+<section class="content_info">
+    <div>
+    <p class="content_info__main-text">
+        Sigma  в цифрах
+    </p>
+    <img class="content_info-line" src="images/lineThird.png">
+    </div>
+    <div class="content_columnsInfo">
+        <div class="content_columnsInfo__column">
+            <p class="content_columnsInfo__column-white">
+                2500+
+            </p>
+            <p class="content_columnsInfo-text1">
+                фотосессий
+            </p>
+        </div>
+        <div class="content_columnsInfo__column">
+            <p class="content_columnsInfo__column-white">
+                300+
+            </p>
+            <p class="content_columnsInfo-text1">
+                моделей в базе
+            </p>
+        </div>
+        <div class="content_columnsInfo__column">
+            <p class="content_columnsInfo__column-white">
+                50+
+            </p>
+            <p class="content_columnsInfo-text2">
+                моделей каждый день участвующих в съёмках и показах
+            </p>
+        </div>
+        <div class="content_columnsInfo__column">
+            <p class="content_columnsInfo__column-white">
+                90%
+            </p>
+            <p class="content_columnsInfo-text2">
+                моделей в базе пришли без опыта и портфолио
+            </p>
+        </div>
+    </div>
+</section>
+<footer class="footer">
+    <img class="footer-img" src="images/Footer.png">
+    <img class="socialNetworks instagram" src="images/inst.png">
+    <img class="socialNetworks vk" src="images/vk.png">
+    <img class="socialNetworks viber" src="images/viber.png">
+    <img class="socialNetworks telegram" src="images/telegram.png">
+</footer>
+<script type="text/javascript" src="script.js"></script>
+</body>
+</html>
